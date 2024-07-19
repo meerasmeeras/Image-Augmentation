@@ -9,11 +9,5 @@
         "src" :  "/(.*)",
         "dest" :  "image_augmentation_project/wsgi.py"
     }
-    ],
-    "rewrites": [
-        {
-            "source": "/(.*)",
-            "destination": "/"
-        }
     ]
 }
